@@ -1,0 +1,12 @@
+C:\Users\Peyman\source\repos\SampleCode\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\Peyman\source\repos\SampleCode\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\Peyman\source\repos\SampleCode\DBHelper\bin\Debug\FMessegeBox.dll
+C:\Users\Peyman\source\repos\SampleCode\DBHelper\obj\Debug\DBHelper.csproj.CoreCompileInputs.cache
+C:\Users\Peyman\source\repos\SampleCode\DBHelper\obj\Debug\DBHelper.csproj.CopyComplete
+C:\Users\Peyman\source\repos\SampleCode\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\Peyman\source\repos\SampleCode\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\Peyman\source\repos\SampleCode\DBHelper\obj\Debug\DBHelper.csprojAssemblyReference.cache
+K:\Projects\SampleCode\DBHelper\bin\Debug\DBHelper.dll
+K:\Projects\SampleCode\DBHelper\bin\Debug\DBHelper.pdb
+K:\Projects\SampleCode\DBHelper\obj\Debug\DBHelper.dll
+K:\Projects\SampleCode\DBHelper\obj\Debug\DBHelper.pdb
